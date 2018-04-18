@@ -1,0 +1,27 @@
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.exe.config
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.exe
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.pdb
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.csprojResolveAssemblyReference.cache
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.Form1.resources
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.Properties.Resources.resources
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.csproj.GenerateResource.Cache
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.exe
+E:\Progs\С#\Calculator C#\calculator-Dany-Wlady--44c7f16e8fd0c737589b818f0bb9ff8853082827\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.pdb
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.csprojResolveAssemblyReference.cache
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.Form1.resources
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.Properties.Resources.resources
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.csproj.GenerateResource.Cache
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.exe
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.pdb
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.exe.config
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.exe
+E:\Repository\Calculator-C-\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.pdb
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.exe.config
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.exe
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.pdb
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.exe
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\bin\Debug\CalculatorVladDanil.pdb
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.csprojResolveAssemblyReference.cache
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.Form1.resources
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.Properties.Resources.resources
+D:\Учеба\2 курс\Проектирование и тестирование ПО\CalculatorVladDanil-20180228T172150Z-001\CalculatorVladDanil\CalculatorVladDanil\obj\Debug\CalculatorVladDanil.csproj.GenerateResource.Cache
